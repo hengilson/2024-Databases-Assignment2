@@ -2,6 +2,8 @@
 
   SQL Voting Database Creation Script
 
+  Foreign Key Relationship Creation can be found at the bottom of the file.
+
 */
 
 START TRANSACTION; /* Start a transaction - enabling rollbacks. */
