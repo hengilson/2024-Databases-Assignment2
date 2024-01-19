@@ -1,0 +1,10 @@
+body{
+    margin:10px;
+}
+
+.highlight-winner-answer tr:nth-child(1) {
+    background-color: #d4edda;
+}
+.highlight-winner-answer td {
+    background-color: transparent;
+}
